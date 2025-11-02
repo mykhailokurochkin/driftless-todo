@@ -17,7 +17,7 @@ The core features include:
 
 The application is hosted and publicly available at:
 
-**https://mihakurochkin.github.io/driftless-todo/**
+**https://mykhailokurochkin.github.io/driftless-todo/**
 
 ## 🛠️ Technologies Used
 
